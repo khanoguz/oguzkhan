@@ -1,0 +1,3 @@
+﻿  snake.cpp
+c:\users\oguzk\desktop\cpp\snake\snake\snake\snake.cpp(3): warning C4067: ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+  snake.vcxproj -> C:\Users\oguzk\Desktop\cpp\snake\snake\Debug\snake.exe
